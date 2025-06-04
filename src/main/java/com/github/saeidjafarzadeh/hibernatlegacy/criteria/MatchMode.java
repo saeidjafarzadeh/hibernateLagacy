@@ -1,4 +1,4 @@
-package org.hibernate.hibernatlegacy.criteria;
+package com.github.saeidjafarzadeh.hibernatlegacy.criteria;
 
 public enum MatchMode {
 	EXACT, START, END, ANYWHERE;

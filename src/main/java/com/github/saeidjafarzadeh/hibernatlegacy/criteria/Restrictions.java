@@ -1,4 +1,4 @@
-package org.hibernate.hibernatlegacy.criteria;
+package com.github.saeidjafarzadeh.hibernatlegacy.criteria;
 
 import java.util.ArrayList;
 import java.util.Arrays;

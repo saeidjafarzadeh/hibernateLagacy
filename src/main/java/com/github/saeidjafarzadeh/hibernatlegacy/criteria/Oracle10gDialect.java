@@ -1,4 +1,4 @@
-package org.hibernate.hibernatlegacy.criteria;
+package com.github.saeidjafarzadeh.hibernatlegacy.criteria;
 
 import org.hibernate.dialect.OracleDialect;
 import org.hibernate.dialect.pagination.AbstractLimitHandler;

@@ -1,9 +1,7 @@
-package org.hibernate.hibernatlegacy.criteria;
+package com.github.saeidjafarzadeh.hibernatlegacy.criteria;
 
 import java.util.*;
 
-import org.hibernate.query.NativeQuery;
-import org.hibernate.query.Query;
 import org.hibernate.transform.ResultTransformer;
 
 import jakarta.persistence.EntityManager;
